@@ -1,0 +1,11 @@
+Appearance & Behavior > System Settings:
+  Save files when switching to a different application: true
+  Save files if the IDE is idle for: 5
+Editor > General > Editor Tabs:
+  Mark modified: true
+Tools > Actions on Save:
+  Reformat code: true
+  Optimize imports: true
+  Rearrange code: false
+  Run code cleanup: false
+  Upload to default server: false
